@@ -1,0 +1,17 @@
+{
+  "name": "Chatroom with chatbot",
+  "version": "0.0.1",
+  "description": "Chatroom with chatbot that responds to the usage of certain words and/or commands",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
