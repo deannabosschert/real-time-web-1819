@@ -2,10 +2,18 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  max-width: 60vw;
 }
+
 body {
-  font: 13px Helvetica, Arial;
+  font: 1.3rem sans-serif;
+  display: flex;
 }
+
+main{
+  font-size: 1.3rem;
+}
+
 form {
   background: #000;
   padding: 3px;
