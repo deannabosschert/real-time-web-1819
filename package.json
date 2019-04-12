@@ -1,5 +1,5 @@
 {
-  "name": "Chatroom with chatbot",
+  "name": "Chatroom_with_chatbot",
   "version": "0.0.1",
   "description": "Chatroom with chatbot that responds to the usage of certain words and/or commands",
   "dependencies": {
